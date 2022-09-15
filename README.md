@@ -1,4 +1,18 @@
-### Olá, sou o Jonata
+
+	function mostra(frase) {
+		document.write(frase)
+	}
+
+	var saudacao = "Olá";
+	var  nome = "Jonata";
+
+	
+	mostra (saudacao +","+' eu sou o ' + nome +"!");
+
+
+
+
+
 
 No momento estou estudando <img src="https://img.icons8.com/fluency/36/000000/javascript.png"/>, pretendo avançar para o <img src="https://img.icons8.com/fluency/36/000000/node-js.png"/> e aprofundar no Back-End <img src="https://img.icons8.com/color/36/000000/backend-development.png"/>
 
