@@ -1,24 +1,22 @@
+# Olá, me chamo Jonata ! 
+## Bem vindo ao meu perfil GitHub 👋
+****
+<br>
+Estudo Analise e Desenvolvimento de Software
 
-	function mostra(frase) {
-		document.write(frase)
-	}
-
-	var saudacao = "Olá";
-	var  nome = "Jonata";
-
-	
-	mostra (saudacao +","+' eu sou o ' + nome +"!");
-
-
-
-
-
-
-No momento estou estudando <img src="https://img.icons8.com/fluency/36/000000/javascript.png"/>, pretendo avançar para o <img src="https://img.icons8.com/fluency/36/000000/node-js.png"/> e aprofundar no Back-End <img src="https://img.icons8.com/color/36/000000/backend-development.png"/>
-
-<div align="center">
-  <a href="https://github.com/JonataMSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonataMSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonataMSilva&layout=compact&langs_count=7&theme=dark"/>
+Estou aprendendo Python
+<img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        
+Entendo um pouco de JavaScript
+<img height="18em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<br>
+****
+<br>
+<br>
+<br>
+<br>
+<div>
+<a href="https://github.com/JonataMsilva">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonataMSilva&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JonataMSilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
-  
