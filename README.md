@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 ****
 <br>
-Estudo Analise e Desenvolvimento de Software
+Estudo Análise e desenvolvimento de sistemas
 
 Estou aprendendo Python
 <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
