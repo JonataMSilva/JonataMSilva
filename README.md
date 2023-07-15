@@ -5,10 +5,7 @@
 Estudo Análise e desenvolvimento de sistemas
 
 Estou aprendendo Python
-<img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        
-Entendo um pouco de JavaScript
-<img height="18em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
 <br>
 ****
 <br>
