@@ -1,13 +1,26 @@
-# Olá, me chamo Jonata ! 
-## Bem vindo ao meu perfil GitHub 👋
-****
-<br>
-Estudo Análise e desenvolvimento de sistemas
+## 🚀 Sobre mim
+Eu estou buscando um estágio em desenvolvimento.
 
-Estou aprendendo Python
-<img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-<br>
-****
+
+# Olá, eu sou o Jonata! 👋
+
+🧠 Estou aprendendo: Python e Inglês
+
+👯‍♀️ Procuro colaborar em: projetos para desenvolver minhas habilidades 
+
+🤔 Procuro ajuda com: Django
+
+
+
+## 🛠 Habilidades
+Javascript, Node.js, HTML, CSS, Python, Django, Scrum e Kanban
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatameneses/)
+
+
 <br>
 <br>
 <br>
