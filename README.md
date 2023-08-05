@@ -1,14 +1,12 @@
 ## 🚀 Sobre mim
-Eu estou buscando um estágio em desenvolvimento.
-
 
 # Olá, eu sou o Jonata! 👋
 
-🧠 Estou aprendendo: Python e Inglês
+🧠 Estou aprendendo: Python
 
 👯‍♀️ Procuro colaborar em: projetos para desenvolver minhas habilidades 
 
-🤔 Procuro ajuda com: Django
+
 
 
 
@@ -19,6 +17,8 @@ Javascript, Node.js, HTML, CSS, Python, Django, Scrum e Kanban
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatameneses/)
+
+Eu estou buscando estágio para me desenvolver
 
 
 <br>
